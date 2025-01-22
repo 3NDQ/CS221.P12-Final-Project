@@ -192,8 +192,7 @@ python main.py --mode test \
 
 ## Results
 
-![[assets/competition-result.png]]
-
+![alt text](assets/competition_result.png)
 ## License
 
 Cuộc thi Khoa học Dữ liệu UIT – Bộ môn Khoa học Dữ liệu, Khoa Khoa học và Kỹ thuật Thông tin, Trường Đại học Công nghệ Thông tin , ĐHQG-HCM
