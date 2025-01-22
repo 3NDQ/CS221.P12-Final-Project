@@ -192,7 +192,7 @@ python main.py --mode test \
 
 ## Results
 
-![[assets\competition-result.png]]
+![[assets/competition-result.png]]
 
 ## License
 
